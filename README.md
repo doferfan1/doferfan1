@@ -1,16 +1,13 @@
-## Hi there 👋
+### <div align='center'>---HOLA SOY DORIAN ME GUSTA SER CHAPULIN🦗🦗--- </div>
 
-<!--
-**doferfan1/doferfan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LENGUAJES QUE HABLO
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------
+![java](https://img.shields.io/badge/-java-b951bb?style=flat&logo=java&logoColor=white)
+![c++](https://img.shields.io/badge/-c++-b951bb?style=flat&logo=c++&logoColor=white)
+![c](https://img.shields.io/badge/-C-b951bb?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-b951bb?style=flat&logo=sql&logoColor=white)
+![javaScript](https://img.shields.io/badge/-javaScript-b951bb?style=flat&logo=javaScript&logoColor=white)
+![python](https://img.shields.io/badge/-python-b951bb?style=flat&logo=python&logoColor=white)
+![html](https://img.shields.io/badge/-java-b951bb?style=flat&logo=html5&logoColor=white)
+![php](https://img.shields.io/badge/-php-b951bb?style=flat&logo=php&logoColor=white)
